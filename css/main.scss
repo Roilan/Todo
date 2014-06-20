@@ -18,7 +18,9 @@ h3 {
 	text-align: center;
 }
 
-.btn-clear, .btn-add {
+.btn-clear,
+.btn-add,
+.btn-lst-mod {
 	@include border-radius(5px);
 	background-color: white;
 	margin-bottom: 10px;
@@ -26,6 +28,11 @@ h3 {
 
 .btn-add {
 	margin-left: 5px;
+}
+
+.btn-lst-mod {
+	margin-left: 50px;
+	margin-bottom: 0;
 }
 
 .task {
