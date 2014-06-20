@@ -16,7 +16,7 @@ JavaScript
  
 CSS
  - SASS
-- Bootstrap
+ - Bootstrap
 ```
 
 #License
